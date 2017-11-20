@@ -1,4 +1,4 @@
 # Hello-GreetGo
 # Download ZIP
-# Unzip foulder 
+# Unzip folder 
 # Just open html file
